@@ -64,4 +64,3 @@ Meu foco atual está no **desenvolvimento Back-End**, aprimorando minhas habilid
 🌐 **LinkedIn**: [Carlos Fernando](www.linkedin.com/in/carlos-fernando-2251a298)  
 ✨ **GitHub**: [CarlosFernando](https://github.com/carlosfernandomatias)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosfernandomatias)](https://github.com/anuraghazra/github-readme-stats)
