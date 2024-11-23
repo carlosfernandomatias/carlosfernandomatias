@@ -58,7 +58,7 @@ Meu foco atual está no **desenvolvimento Back-End**, aprimorando minhas habilid
 
 ---
 
-## ✉️ Vamos Conectar?
+## ✉️ Contatos 
 
 📧 **Email**: carlos.slip@hotmail.com  
 🌐 **LinkedIn**: [Carlos Fernando](www.linkedin.com/in/carlos-fernando-2251a298)  
