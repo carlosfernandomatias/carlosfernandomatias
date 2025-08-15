@@ -1,66 +1,73 @@
 # 👨‍💻 Carlos Fernando
 
-🎓 **Formado em Administração** | 🌟 **Focado em Desenvolvimento Back-End e RPA**  
-📚 Atualmente cursando Técnico em Análise e Desenvolvimento de Sistemas.  
+🎓 **Administrador por formação** | 💡 **Especialista em Integrações e Automação**  
+📚 **Técnico em Análise e Desenvolvimento de Sistemas**  | 📊 **Pós-graduação em Data Science** *(em andamento)*  
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mim  
 
-Olá! Meu nome é **Carlos Fernando**. Sou apaixonado por resolver problemas e criar soluções criativas. Após minha formação em administração, descobri na tecnologia uma ferramenta poderosa para transformar ideias em realidade.
+Sou um profissional apaixonado por tecnologia e por transformar ideias em soluções reais.  
+Minha trajetória começou na administração, mas encontrei na programação e na automação de processos a oportunidade de unir **gestão, dados e inovação**.  
 
-Hoje, atuo como **desenvolvedor low-code**, e estou sempre me dedicando a aprender e aplicar novas tecnologias. 
+Atuo no desenvolvimento **Back-End**, na criação de **pipelines de dados**, **integrações via API** e **agentes de IA**, utilizando ferramentas como **n8n, Python e Apache Airflow**.  
+Tenho experiência com **bancos relacionais, NoSQL e vetoriais**, além de **Docker, Azure Cloud** e **Git/GitHub**.  
 
----
-
-## 🔧 Habilidades Técnicas
-
-### 🔗 Ferramentas Low-Code:
-- **Podio**  
-- **TapeApp**  
-- **Xano**  
-
-### 💻 Linguagens de Programação e Marcação:
-- 🐍 **Python**  
-- ☕ **Java**  
-- 🌐 **JavaScript** (incluindo **Node.js**)  
-- 🎨 **HTML & CSS**
-  
-### 🗄️ Bancos de Dados:
-- 🛢️ **MySQL**  
-- 🛢️ **MariaDB**  
-
-
-### 🌟 Experiência Complementar:
-- Consumo de **APIs RESTful**  
-- Automação com **RPA**  
-- **Extração de Dados** simples e eficiente  
-- **Docker** e **Apache Airflow** para orquestração de tarefas e ambientes
-- 
+Meu foco é criar soluções **escaláveis, inteligentes e que gerem valor real para o negócio**.  
 
 ---
 
-## 💼 Experiência Prática
+## 🔧 Habilidades Técnicas  
 
-### 🎯 **Projetos de Destaque**:
-- **Liga Contra o Câncer**: Atuei como desenvolvedor Back-End em um projeto da instituição **SENAC**, ajudando a criar  e desenvolver soluções.  
+### 🔗 Integrações & Automação  
+- **n8n**, APIs RESTful, Webhooks  
+- Web Scraping & Web Crawlers  
+- RPA *(Robotic Process Automation)*  
+
+### 💻 Desenvolvimento & Data Engineering  
+- **Python** (Pandas, Spark)  
+- **SQL Avançado** (MySQL/MariaDB, PostgreSQL)  
+- **Apache Airflow**  
+- Data Lake & Data Warehouse  
+
+### 🧠 Inteligência Artificial  
+- Construção de **Agentes de IA**  
+- Integração com **LLMs**  
+- Bancos vetoriais *(Supabase PostgreSQL, Pinecone, Weaviate)*  
+
+### 🛠️ Infraestrutura & DevOps  
+- **Docker**  
+- **Azure Cloud**  
+- **Git/GitHub**  
+- CI/CD  
+
+### 📌 Metodologias  
+- Scrum, Kanban, métodos ágeis  
 
 ---
 
-## 🌱 Aprendizado Contínuo
+## 💼 Experiência de Destaque  
 
-Estou constantemente buscando maneiras de **conciliar minha experiência administrativa com as habilidades de programação**, encontrando soluções inovadoras e eficazes para os desafios do dia a dia.
-
-Meu foco atual está no **desenvolvimento Back-End**, aprimorando minhas habilidades em:  
-- Design de APIs  
-- Integração de sistemas  
-- Ambientes escaláveis com Docker e ferramentas DevOps  
+- **Gentil Negócios** – Desenvolvimento de pipelines e integrações complexas usando **n8n**, **Python** e **APIs**.  
+- **Liga Contra o Câncer (SENAC)** – Desenvolvimento **Back-End** e implementação de soluções para otimizar fluxos internos.  
 
 ---
 
-## ✉️ Contatos 
+## 🌱 Aprendizado Contínuo  
 
-📧 **Email**: carlos.slip@hotmail.com  
-🌐 **LinkedIn**: [Carlos Fernando](www.linkedin.com/in/carlos-fernando-2251a298)  
-✨ **GitHub**: [CarlosFernando](https://github.com/carlosfernandomatias)
+Sempre buscando **inovar e entregar valor**, conciliando experiência em gestão com habilidades técnicas para criar soluções completas.  
 
+📌 Foco atual:  
+- Arquitetura de soluções e escalabilidade  
+- Engenharia de dados avançada  
+- Integração de IA em processos corporativos  
+
+---
+
+## 📫 Onde Me Encontrar  
+
+📧 **E-mail:** [carlos.slip@hotmail.com](mailto:carlos.slip@hotmail.com)  
+🌐 **LinkedIn:** [Carlos Fernando](https://www.linkedin.com/in/carlos-fernando-2251a298)  
+💻 **GitHub:** [CarlosFernando](https://github.com/carlosfernandomatias)  
+
+---
